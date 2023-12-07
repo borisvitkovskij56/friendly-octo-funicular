@@ -1,0 +1,13 @@
+        } else {
+            Text("2")
+        }
+    }
+    
+}
+
+struct UsingCustomViewBuilder_Previews: PreviewProvider {
+    static var previews: some View {
+        UsingCustomViewBuilder()
+    }
+}
+
